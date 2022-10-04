@@ -84,7 +84,7 @@ delete:
     - User
   summary: Deleted user
   description: This can only be done by the logged in user.
-  operationId: Delete User
+  operationId: DeleteUser
   parameters:
     - name: username
       in: path
